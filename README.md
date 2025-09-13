@@ -17,24 +17,6 @@
 </div>
 
 ---
-
-## 📋 Table of Contents
-## 📋 Table of Contents
-
-- [About The Project](#about-the-project)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Database Schema](#database-schema)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
 ## 🌟 About The Project
 
 JobPortal Pro is a comprehensive job search and recruitment platform that connects job seekers with employers. Built with modern web technologies, it provides a seamless experience for both candidates looking for opportunities and recruiters seeking top talent.
@@ -80,3 +62,53 @@ JobPortal Pro is a comprehensive job search and recruitment platform that connec
 ### 🏠 Home Page
 ![Home Page](https://github.com/tamiresatyajayanth58/JOB_PORTAL/blob/492d2956c21b34c30982a1c246b47f79143ad817/screenshots/Homepage.png)
 *Beautiful hero section with call-to-action buttons and feature showcase*
+
+### 👤 Job Seeker Dashboard
+![Job Seeker Dashboard](https://github.com/tamiresatyajayanth58/JOB_PORTAL/blob/f579c930598d3416efb3ed97198a22d8dfcf8727/screenshots/job-seeker-dashboard.png)
+*Clean interface showing available jobs, applications, and saved positions*
+
+### 💼 Job Listings
+![Job Listings](https://github.com/tamiresatyajayanth58/JOB_PORTAL/blob/f579c930598d3416efb3ed97198a22d8dfcf8727/screenshots/job-listings.png)
+*Detailed job cards with company info, requirements, and application buttons*
+
+### 📊 Application Tracking
+![Application Tracking](https://github.com/tamiresatyajayanth58/JOB_PORTAL/blob/f579c930598d3416efb3ed97198a22d8dfcf8727/screenshots/Tracking.png)
+*Real-time status updates for all job applications*
+
+### 🏢 Recruiter Signup
+![Recruiter Signup](https://github.com/tamiresatyajayanth58/JOB_PORTAL/blob/f579c930598d3416efb3ed97198a22d8dfcf8727/screenshots/recruiter-dashboard.png)
+*Comprehensive recruiter interface for managing jobs and applications*
+
+### ➕ Job Posting
+![Job Posting](https://github.com/tamiresatyajayanth58/JOB_PORTAL/blob/f579c930598d3416efb3ed97198a22d8dfcf8727/screenshots/job-posting.png)
+*Intuitive form for creating detailed job postings*
+
+## 🛠 Tech Stack
+
+### Frontend
+- **React.js** - User interface library
+- **React Router** - Client-side routing
+- **Tailwind CSS** - Utility-first CSS framework
+- **Axios** - HTTP client for API requests
+- **Local Storage** - Client-side data persistence
+
+### Backend
+- **Node.js** - JavaScript runtime environment
+- **Express.js** - Web application framework
+- **MySQL** - Relational database management system
+- **JWT** - JSON Web Tokens for authentication
+- **bcryptjs** - Password hashing library
+- **CORS** - Cross-Origin Resource Sharing middleware
+
+### Development Tools
+- **Nodemon** - Development server with auto-reload
+- **dotenv** - Environment variable management
+- **Git** - Version control system
+
+  <div align="center">
+
+**⭐ Star this repo if you find it helpful!**
+
+Made with ❤️ by [Satya Jayanth](https://github.com/tamiresatyajayanth58)
+
+</div>
